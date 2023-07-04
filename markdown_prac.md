@@ -29,8 +29,9 @@
 
 # リンク
 ウェブ関連技術の標準化は [World Wide Web Consortium (W3C)](http://www.w3.org/) などによって行われています。
+# 画像リンク
 
-[ほいほい](images/hoisuke.png)
+![ほいほい](images/hoisuke.png)
 
 # 強調
 サンシャイン*池崎*
@@ -43,3 +44,12 @@ public static void main(string[]){
     system.out.println("hello ikezaki"); 
 }
 ```
+
+# 水平線
+***
+
+# 表
+|見出し1|見出し2 |
+| -- | -- |
+| 内容1-1 | 内容2-1|
+| 内容1-2 | **内容2-2** |
